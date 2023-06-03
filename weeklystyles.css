@@ -1,0 +1,93 @@
+body{
+	background-image: url("https://media.istockphoto.com/id/1350653140/photo/futuristic-hexagon-wave-dark-cyberspace-abstract-wave-with-dots-and-line-white-moving.jpg?b=1&s=170667a&w=0&k=20&c=0Y7_IYmEGM2WYH6DeJgZ4GgUwKe6lze8DiEvwOGb2oo=");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100px;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	margin-right: 300px;
+}
+
+.header{
+	background-color: #3E54A3;
+	display: flex;
+	flex-direction: row;
+	color: #FFFFF9;
+	text-align: center;
+	justify-content: center;
+	padding-top: 15px;
+	font-size: 20px;
+	font-family: 'Arial'sans-serif;
+	font-weight: bold;
+}
+
+h1{
+	color: #3E54A3;
+	font-family: "Poppins", sans-serif;
+	padding-top: 80px;
+	padding-bottom: 20px;
+	font-weight: inherit;
+	font-size: 50px;
+	text-align: justify-all;
+}
+
+p{
+	font-family: "Helvetica", sans-serif;
+	font-size: 20px;
+	text-align: left;
+}
+
+.image-1{
+	padding-top: 50px;
+	padding-bottom: 20px;
+	padding-left: 50px;
+
+}
+
+.list-list ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 5px;
+}
+
+.list-list ul li a{
+	color: black;
+	font-weight: bold;
+}
+
+.list-list ul li a:hover{
+	color: red;
+	text-decoration: underline;
+	transition: .3s;
+}
+
+.login{
+	background-color: #ED2C49;
+	height: 3em;
+	width: 50%;
+	margin-right: 40px;
+	font-size: 20px;
+	transition: 1s;
+	outline: none;
+	font-family: "Poppins", sans-serif;
+	padding: 20px;
+	text-decoration: none;
+	cursor: pointer;
+	text-align: center;
+	border: none;
+	border-radius: 100px
+}
+
+.login a{
+	color: darkred;
+}
+
+.login:hover{
+	background-color: white;
+	border: 1px solid #3DAC94;
+	color: #3DAC94;
+
+}
+
+

@@ -1,0 +1,55 @@
+body{
+	background-color: rosybrown;
+}
+
+.my-own-class{
+	background-color: lavenderblush;
+	color: darkred;
+}
+
+.footer{
+	background-color: lightcoral;
+	height: 10vh;
+	border: 2px solid black;
+	width: 100%;
+
+}
+
+.col1{
+	background-color: lightpink;
+	color: red;
+	border: solid 2px wheat;
+}
+
+.nestingcol{
+	background-color: blue;
+	height: 30vh;
+	color: white;
+}
+
+.nestingcol2{
+	background-color: pink;
+	height: 30vh;
+	color: white;
+}
+
+.smallcol{
+	background-color: gray;
+	color: darkred;
+
+}
+
+.smallcol2{
+	background-color: orange;
+	color: white;
+}
+
+.smallcol3{
+	background-color: peachpuff;
+	color: white;
+}
+
+.smallcol4{
+	background-color: firebrick;
+	color: white;
+}
